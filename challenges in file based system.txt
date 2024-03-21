@@ -1,0 +1,11 @@
+Challenges of file-based storage system which was tackled by DBMS:-
+
+Data redundancy and Inconsistency : while storing data in a file, some data may be written twice and when the same redundanr information is updated it leades to inconsistancy due to the fact that changes are not made at all the places.
+
+Difficult to access : Usually the data in files are accessed on the sequentials basis. Whereas in DBMS, stored data can be accessed in any format.
+
+Data Isolation : Some data may remain out of focus while of dbms loos of data is prevented by retrival through meaningful statements.
+
+Security PRoblems : Security problems presist in file system unlike that of dbms. Oly authorized people should be allowed to access data, which seems difficult in file system.
+
+Atomicity Problem : Atomicity problem exists in the file system i.e. transaction are not made atomic. the lack of atomicity inflicts some inconststancy into the file system. Whereas DBMS take care of dependent transaction.

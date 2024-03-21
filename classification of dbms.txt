@@ -1,0 +1,35 @@
+Database Management Systems (DBMS) can be broadly classified into two main categories:
+ Relational Database Management Systems (RDBMS) and Non-Relational Database Management Systems (Non-RDBMS or NoSQL databases).
+
+Relational Database Management Systems (RDBMS):
+
+Tabular Structure: Data is organized into tables with rows and columns.
+
+Structured Query Language (SQL): Utilizes SQL for defining, querying, and manipulating data.
+
+ACID Properties: Emphasizes ACID properties (Atomicity, Consistency, Isolation, Durability) to ensure data integrity and transactional reliability.
+
+Schema: Requires a predefined schema that defines the structure of the data, including tables, fields, and relationships.
+
+Normalization: Often employs normalization techniques to reduce redundancy and dependency in data.
+
+Examples:
+MYSQL,PostgreSQL,Oracle Database,Microsoft SQL Server
+
+
+
+Non-Relational Database Management Systems (NoSQL or Non-RDBMS):
+
+Diverse Data Models: Supports various data models, including document-oriented, key-value pairs, column- family, and graph databases.
+
+Schema Flexibility: Allows for schema-less or dynamic schema structures, providing flexibility to handle evolving data requirements.
+
+CAP Theorem: May prioritize aspects of the CAP theorem (Consistency, Availability, Partition Tolerance) differently based on the specific type of NoSQL database. 
+
+Horizontal Scalability: Generally designed to scale horizontally, distributing data across multiple servers or nodes.
+
+Performance Optimization: Emphasizes performance and scalability over strict consistency in certain scenarios.
+
+Examples:
+MongoDB (Document-oriented)
+Cassandra (Column-family)
