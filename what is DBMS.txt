@@ -1,0 +1,10 @@
+DBMS is stands for Database Management System. DBMS is a collention of interrelated data and a set of software programs that control the organization, storage, management and retrival of data in the database.
+
+Need for DBMS :-
+-> Data Defination : the dbms provides functions to define the structure of the data in the application. This includes defining and modifying the record structure, the type and size of it's feilds.
+
+-> Data Mani pulation : Once the data structure is defined, data needs to be inserted, modified or deleted. The functions which perform thes operations are also part of the DBMS.
+
+-> Data Security and Integrity : DBMS contain s functions which handle the security and integrity of data in the application. These can be integrity of data in the applicatio. These can be easily  invoked by the application.
+
+-> Data Recovery and Concurrency : Recovery of data after a system failure and concurrent access of records by multiple users are also handeled by DBMS.

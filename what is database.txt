@@ -1,0 +1,1 @@
+A collection of data designed to be used by different people is called a database. A databaseis collection of data that is systematically organized or structured repository of indexed information that allows easy retrieval, updating, analysis and output of data.
